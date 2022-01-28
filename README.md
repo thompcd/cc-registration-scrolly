@@ -1,3 +1,3 @@
 
-# An Interactive Story for the Sapulpa Times
+# An [Interactive Story](https://creek-voter-story.netlify.app) for the Sapulpa Times
 
